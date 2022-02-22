@@ -1,0 +1,21 @@
+virtual carrom board
+charectors:
+player 1(pc)
+player 2(pc)
+coins(npc)
+striker(npc)
+Rules:
+(rules of original game)
+Story/goal:
+try to win
+feedback:
+-strike based on power, angle and striker position
+-striker position.x = mouse.x
+-angle controlled by right and left arrows
+-power controlled by up and down arrows
+-press space to release
+luck vs skill:
+-mostly skill but sometimes coins end accidentally or without the player wantig it to fall in
+other:
+-accuracy compramises with power
+
